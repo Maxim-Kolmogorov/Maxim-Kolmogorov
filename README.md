@@ -1,0 +1,4 @@
+- 👋 Hi, i'm Maxim Kolmogorov from Yekaterinburg, in Russia.
+- 👨‍💻 JavaScript developer, Kotlin and Swift enthusiast.
+- 🤡 In my free time, I am fond of augmented reality.
+- 📫 Telegram @Shokodin.
